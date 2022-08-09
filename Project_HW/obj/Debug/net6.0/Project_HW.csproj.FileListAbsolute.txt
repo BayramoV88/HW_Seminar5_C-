@@ -1,0 +1,15 @@
+/Users/vadimbayramov/Desktop/HW_Seminar5_C#/Project_HW/obj/Debug/net6.0/Project_HW.csproj.AssemblyReference.cache
+/Users/vadimbayramov/Desktop/HW_Seminar5_C#/Project_HW/obj/Debug/net6.0/Project_HW.GeneratedMSBuildEditorConfig.editorconfig
+/Users/vadimbayramov/Desktop/HW_Seminar5_C#/Project_HW/obj/Debug/net6.0/Project_HW.AssemblyInfoInputs.cache
+/Users/vadimbayramov/Desktop/HW_Seminar5_C#/Project_HW/obj/Debug/net6.0/Project_HW.AssemblyInfo.cs
+/Users/vadimbayramov/Desktop/HW_Seminar5_C#/Project_HW/obj/Debug/net6.0/Project_HW.csproj.CoreCompileInputs.cache
+/Users/vadimbayramov/Desktop/HW_Seminar5_C#/Project_HW/bin/Debug/net6.0/Project_HW
+/Users/vadimbayramov/Desktop/HW_Seminar5_C#/Project_HW/bin/Debug/net6.0/Project_HW.deps.json
+/Users/vadimbayramov/Desktop/HW_Seminar5_C#/Project_HW/bin/Debug/net6.0/Project_HW.runtimeconfig.json
+/Users/vadimbayramov/Desktop/HW_Seminar5_C#/Project_HW/bin/Debug/net6.0/Project_HW.dll
+/Users/vadimbayramov/Desktop/HW_Seminar5_C#/Project_HW/bin/Debug/net6.0/Project_HW.pdb
+/Users/vadimbayramov/Desktop/HW_Seminar5_C#/Project_HW/obj/Debug/net6.0/Project_HW.dll
+/Users/vadimbayramov/Desktop/HW_Seminar5_C#/Project_HW/obj/Debug/net6.0/refint/Project_HW.dll
+/Users/vadimbayramov/Desktop/HW_Seminar5_C#/Project_HW/obj/Debug/net6.0/Project_HW.pdb
+/Users/vadimbayramov/Desktop/HW_Seminar5_C#/Project_HW/obj/Debug/net6.0/Project_HW.genruntimeconfig.cache
+/Users/vadimbayramov/Desktop/HW_Seminar5_C#/Project_HW/obj/Debug/net6.0/ref/Project_HW.dll
