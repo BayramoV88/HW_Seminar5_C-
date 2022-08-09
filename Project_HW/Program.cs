@@ -5,10 +5,20 @@
 
     FillArray(array, 100, 1000);
     PrintArray(array);
-    FindNums(array);
+    FindEvenNums(array);
 }
 
-void FillArray(int[] array, int startNum, int finishNum)
+void Zadacha36()
+{
+    int size = 10;
+    int[] array = new int[size];
+
+    FillArray(array);
+    PrintArray(array);
+    FindSumOddNums(array);
+}
+
+void FillArray(int[] array, int startNum = -20, int finishNum = 20)
 {
     Random rand = new Random();
     for (int i = 0; i < array.Length; i++)
@@ -26,7 +36,7 @@ void PrintArray(int[] array)
     Console.WriteLine();
 }
 
-void FindNums(int[] array)
+void FindEvenNums(int[] array)
 {
     int sum = 0;
     for (int i = 0; i < array.Length; i++)
@@ -36,6 +46,19 @@ void FindNums(int[] array)
     Console.WriteLine($"количество четных чисел массива равно {sum}");
 }
 
+void FindSumOddNums(int [] array)
+{
+    int sum = 0;
+    for (int i = 0; i < array.Length; i++)
+    {
+        if (i % 2 == 1)
+        {
+            sum = sum + array[i];
+        }
+    }
+    Console.WriteLine($"Сумма элементов на нечетных позициях равна {sum}");
+}
 
 
-Zadacha34();
+//Zadacha34();
+Zadacha36();
